@@ -1,0 +1,6 @@
+c:\users\dpenh\documents\visual studio 2010\Projects\canteen\WebApplication1\bin\WebApplication1.dll
+c:\users\dpenh\documents\visual studio 2010\Projects\canteen\WebApplication1\bin\WebApplication1.pdb
+c:\users\dpenh\documents\visual studio 2010\Projects\canteen\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\dpenh\documents\visual studio 2010\Projects\canteen\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dpenh\documents\visual studio 2010\Projects\canteen\WebApplication1\bin\MySql.Data.DLL
+C:\Users\dpenh\documents\visual studio 2010\Projects\canteen\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
